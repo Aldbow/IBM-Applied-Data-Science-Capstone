@@ -1,4 +1,7 @@
 # 🚀 Applied Data Science Capstone
+
+[Download Presentation](https://raw.githubusercontent.com/Aldbow/IBM-Applied-Data-Science-Capstone/master/Aldiva_wibowo_Capstone.pdf)
+
 The Capstone course is the final course in the IBM Data Science Professional Certificate specialization, which comprises ten courses in total. This course serves as a culmination of the entire program, as it brings together all of the concepts, techniques, and tools that learners have acquired in the previous courses.
 
 During the IBM Data Science Professional Certificate specialization, learners are introduced to various topics, including data exploration and visualization, data analysis and machine learning, and data product development. Through a combination of lectures, hands-on assignments, and quizzes, learners gain practical experience and build their skills in data science.
